@@ -1,0 +1,25 @@
+#website {
+    font-size: 128px;
+    color: brown;
+    font-weight: 800;
+}
+.redtext {
+    color: brown;
+}
+
+#first {
+    display: inline-block;
+    border: 10px blue solid;
+    padding: 30px 100px;
+    margin: 100px 0px;
+}
+
+span {
+    font-size: 64px;
+}
+
+.container {
+    border: 2px black solid;
+
+
+}
